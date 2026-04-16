@@ -29,4 +29,24 @@ A simple command-line application designed for a user to input, view, edit, and 
   - ./taskmanagerapp.exe
 
 # how this works
-Each
+• Each task contains a description and completion status
+• Tasks are stored in a vector of structs
+• Tasks are optionally stored in tasks.txt file so they exist between runs.
+
+# example output
+[x] type README.md
+[] upload source code
+
+# what i learned here
+• how to use vectors and structs
+• input/output in c++
+• writing and calling functions
+• basic principles of software design
+
+# future improvement tasks
+• add priority levels for each task
+• make this more user-friendly
+
+# author
+• Kelsey Zoey Durden
+• github.com/kelseyzoeydurden
